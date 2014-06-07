@@ -1,3 +1,11 @@
+// Instructions //
+
+1. Go the new search pages -- example tumblr.com/search/cats/recent (this will make it so its ALL the most RECENT in the search/tag)
+2. Click on the first square block thing in the results, 
+3. Run the script below and it should work!
+
+// Imacros Script //
+
 VERSION BUILD=8810214 RECORDER=FX
 SET !TIMEOUT_STEP 20
 'CREATED BY ITSMEMACLEOD.TUMBLR.COM
